@@ -1,0 +1,153 @@
+/* light-mode.css (Light Mode) */
+
+body {
+    background-color: #ffffff;
+    color: #ff0000; /* Cor vermelha para o texto */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffcc00; /* Fundo amarelo para o cabeçalho */
+}
+
+h1, h2 {
+    color: #ff0000; /* Títulos em vermelho */
+}
+
+main {
+    padding: 20px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: square;
+    color: #ff0000; /* Itens da lista em vermelho */
+}
+
+li {
+    margin: 5px 0;
+}
+
+button {
+    background-color: #ffcc00; /* Botão com fundo amarelo */
+    color: #ff0000; /* Texto do botão em vermelho */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+/* light-mode.css (Light Mode) */
+
+body {
+    background-color: #ffffff;
+    color: #000000; /* Cor preta para o texto */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f1f1f1;
+}
+
+h1, h2 {
+    color: #000000; /* Títulos em preto */
+}
+
+main {
+    padding: 20px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: square;
+    color: #000000;
+}
+
+li {
+    margin: 5px 0;
+}
+
+button {
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+/* light-mode.css (Light Mode) */
+
+body {
+    background-color: #ffffff;
+    color: #ff0000; /* Cor vermelha para o texto */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffcc00; /* Fundo amarelo para o cabeçalho */
+}
+
+h1, h2 {
+    color: #ff0000; /* Títulos em vermelho */
+}
+
+main {
+    padding: 20px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: square;
+    color: #ff0000; /* Itens da lista em vermelho */
+}
+
+li {
+    margin: 5px 0;
+}
+
+button {
+    background-color: #ffcc00; /* Botão com fundo amarelo */
+    color: #ff0000; /* Texto do botão em vermelho */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    opacity: 0.8;
+}

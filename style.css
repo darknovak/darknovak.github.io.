@@ -1,0 +1,179 @@
+/* styles.css (Dark Mode) */
+
+body {
+    background-color: #121212;
+    color: #ffcc00; /* Cor amarela para o texto */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #ff0000; /* Fundo vermelho para o cabeçalho */
+}
+
+h1, h2 {
+    color: #ffcc00; /* Títulos em amarelo */
+}
+
+main {
+    padding: 20px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: square;
+    color: #ffcc00; /* Itens da lista em amarelo */
+}
+
+li {
+    margin: 5px 0;
+}
+
+button {
+    background-color: #ff0000; /* Botão com fundo vermelho */
+    color: #ffcc00; /* Texto do botão em amarelo */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+/* styles.css (Dark Mode) */
+
+body {
+    background-color: #121212;
+    color: #00ff00; /* Cor verde para o texto */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #1f1f1f;
+}
+
+h1, h2 {
+    color: #00ff00; /* Títulos em verde */
+}
+
+main {
+    padding: 20px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: square;
+    color: #00ff00;
+}
+
+li {
+    margin: 5px 0;
+}
+
+button {
+    background-color: #00ff00;
+    color: #121212;
+    border:
+/* styles.css */
+
+body {
+    background-color: #121212;
+    color: #00ff00; /* Cor verde para o texto */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #1f1f1f;
+}
+
+h1, h2 {
+    color: #00ff00; /* Títulos em verde */
+}
+
+main {
+    padding: 20px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: square;
+    color: #00ff00;
+}
+
+li {
+    margin: 5px 0;
+}
+/* styles.css (Dark Mode) */
+
+body {
+    background-color: #121212;
+    color: #ffcc00; /* Cor amarela para o texto */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #ff0000; /* Fundo vermelho para o cabeçalho */
+}
+
+h1, h2 {
+    color: #ffcc00; /* Títulos em amarelo */
+}
+
+main {
+    padding: 20px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: square;
+    color: #ffcc00; /* Itens da lista em amarelo */
+}
+
+li {
+    margin: 5px 0;
+}
+
+button {
+    background-color: #ff0000; /* Botão com fundo vermelho */
+    color: #ffcc00; /* Texto do botão em amarelo */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    opacity: 0.8;
+}

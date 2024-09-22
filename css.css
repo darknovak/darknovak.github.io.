@@ -1,0 +1,75 @@
+/* Reset de margens e preenchimentos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo geral */
+body {
+    background-color: #121212;
+    color: #ffcc00; /* Cor amarela para o texto */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Evita rolagem horizontal */
+}
+
+/* Cabeçalho fixo no topo */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #ff0000; /* Fundo vermelho para o cabeçalho */
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000; /* Garante que o cabeçalho fique sobre o conteúdo */
+}
+
+/* Espaço para o conteúdo */
+main {
+    padding: 80px 20px 20px; /* Adiciona espaço no topo para não sobrepor o cabeçalho */
+    min-height: 100vh; /* Garante que o conteúdo ocupe a altura total da janela */
+}
+
+/* Estilo para textos */
+h1, h2 {
+    color: #ffcc00; /* Títulos em amarelo */
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: square;
+    color: #ffcc00; /* Itens da lista em amarelo */
+}
+
+li {
+    margin: 5px 0;
+}
+
+/* Estilo para botões */
+button {
+    background-color: #ff0000; /* Botão com fundo vermelho */
+    color: #ffcc00; /* Texto do botão em amarelo */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+/* Container do vídeo */
+.video-container {
+    margin: 20px 0;
+    text-align: center;
+}
+
